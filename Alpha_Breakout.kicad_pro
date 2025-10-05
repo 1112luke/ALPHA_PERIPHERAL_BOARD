@@ -629,6 +629,10 @@
     [
       "7206d2b0-7b5f-4365-98b4-710ce982513e",
       "thermoAmps"
+    ],
+    [
+      "f19b3af3-949e-4bd9-966f-10ca206af398",
+      "Power"
     ]
   ],
   "text_variables": {}
