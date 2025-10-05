@@ -11,17 +11,21 @@
 	(text "Luke\n"
 		(exclude_from_sim no)
 		(at 42.418 27.178 0)
-	)
-	(text "SebTEst\n"
-		(exclude_from_sim no)
-		(at 25.4 180.594 0)
-	
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "b7204339-f0de-48f0-9d48-e39452cad198")
+		(uuid "2d4847e3-8150-45e8-b609-ec4e0dbdcdce")
+	)
+	(text "SebTEst\n"
+		(exclude_from_sim no)
+		(at 25.4 180.594 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
 		(uuid "5ac24610-8e9a-4db6-a115-f8fa49967cf1")
 	)
 	(wire
@@ -63,6 +67,48 @@
 			(type default)
 		)
 		(uuid "e09935fa-6465-4e15-9781-54a0fa035016")
+	)
+	(sheet
+		(at 66.04 55.88)
+		(size 40.64 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7206d2b0-7b5f-4365-98b4-710ce982513e")
+		(property "Sheetname" "thermoAmps"
+			(at 66.04 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "thermoAms.kicad_sch"
+			(at 66.04 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Alpha_Breakout"
+				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26"
+					(page "5")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 140.97 88.9)
