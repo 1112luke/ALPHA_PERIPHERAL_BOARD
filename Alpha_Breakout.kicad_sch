@@ -8,6 +8,16 @@
 		(title "Alpha_Peripheral_Board")
 	)
 	(lib_symbols)
+	(text "SebTEst\n"
+		(exclude_from_sim no)
+		(at 25.4 180.594 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5ac24610-8e9a-4db6-a115-f8fa49967cf1")
+	)
 	(wire
 		(pts
 			(xy 116.84 92.71) (xy 140.97 92.71)
