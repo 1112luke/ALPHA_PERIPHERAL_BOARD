@@ -8,6 +8,9 @@
 		(title "Alpha_Peripheral_Board")
 	)
 	(lib_symbols)
+	(text "Luke\n"
+		(exclude_from_sim no)
+		(at 42.418 27.178 0)
 	(text "SebTEst\n"
 		(exclude_from_sim no)
 		(at 25.4 180.594 0)
@@ -16,6 +19,7 @@
 				(size 1.27 1.27)
 			)
 		)
+		(uuid "b7204339-f0de-48f0-9d48-e39452cad198")
 		(uuid "5ac24610-8e9a-4db6-a115-f8fa49967cf1")
 	)
 	(wire
