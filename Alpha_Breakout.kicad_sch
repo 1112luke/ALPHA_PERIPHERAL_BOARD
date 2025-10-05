@@ -8,6 +8,16 @@
 		(title "Alpha_Peripheral_Board")
 	)
 	(lib_symbols)
+	(text "Luke\n"
+		(exclude_from_sim no)
+		(at 42.418 27.178 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b7204339-f0de-48f0-9d48-e39452cad198")
+	)
 	(wire
 		(pts
 			(xy 116.84 92.71) (xy 140.97 92.71)
