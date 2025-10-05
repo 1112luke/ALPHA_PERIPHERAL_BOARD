@@ -2307,6 +2307,28 @@
 		)
 		(uuid "f595c109-1db3-427b-84aa-0d2d2b003547")
 	)
+	(hierarchical_label "SPI1_MOSI"
+		(shape input)
+		(at 158.75 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "008a2aa9-efcd-4acf-bcd5-9e36267012aa")
+	)
+	(hierarchical_label "SPI1_SCK"
+		(shape input)
+		(at 158.75 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "355ac3b3-f77e-444d-8ea0-fdafc7c65dda")
+	)
 	(hierarchical_label "SCL"
 		(shape input)
 		(at 91.44 114.3 180)
@@ -2339,6 +2361,17 @@
 			(justify left)
 		)
 		(uuid "b46ca6bd-fab5-46dc-9d09-73023061bdbd")
+	)
+	(hierarchical_label "SPI1_MISO"
+		(shape input)
+		(at 158.75 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cff74b5a-5d7e-4c57-8456-2536476bb61f")
 	)
 	(hierarchical_label "SDA"
 		(shape input)
