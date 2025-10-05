@@ -1,0 +1,158 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "bb73515c-a1ce-4448-8899-3a433fb04c26")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 143.51 83.82) (xy 166.37 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64668222-939a-4104-abf8-3e060297e384")
+	)
+	(wire
+		(pts
+			(xy 143.51 81.28) (xy 166.37 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa9c44c4-9ba6-4849-85a5-7b3d5156fb28")
+	)
+	(sheet
+		(at 118.11 76.2)
+		(size 25.4 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9cbbe99d-ef26-4275-9460-efaf874d2391")
+		(property "Sheetname" "stm32f1"
+			(at 118.11 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stm32f1.kicad_sch"
+			(at 118.11 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "UART_1_TX" input
+			(at 143.51 81.28 0)
+			(uuid "e50c4775-1642-4340-8974-438c5648504b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART_1_RX" input
+			(at 143.51 83.82 0)
+			(uuid "9d351f7c-7db5-4752-9568-984a6adb659f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Alpha_Breakout"
+				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 166.37 77.47)
+		(size 16.51 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f4fd7486-9603-4999-ad4a-c6ff352c8897")
+		(property "Sheetname" "prog"
+			(at 166.37 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "prog.kicad_sch"
+			(at 166.37 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_RX" input
+			(at 166.37 81.28 180)
+			(uuid "208b44de-c532-48e6-8045-1c622a753e0e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_TX" input
+			(at 166.37 83.82 180)
+			(uuid "6c51864a-b7b2-46ed-8872-1382d181bab5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Alpha_Breakout"
+				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
