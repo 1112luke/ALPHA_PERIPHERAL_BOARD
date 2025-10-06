@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS513885VABR")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/TPS513885VABR/TPS513885VABR.kicad_sym")(options "")(descr ""))
+  (lib (name "LM66200DRLR")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/LM66200DRLR/LM66200DRLR.kicad_sym")(options "")(descr ""))
+)
