@@ -2443,6 +2443,12 @@
 		(uuid "407d27ba-b29f-43f9-b8ec-151e5fce51aa")
 	)
 	(junction
+		(at 181.61 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42e00741-c69f-4972-90ad-e8c2c27c5a59")
+	)
+	(junction
 		(at 168.91 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2471,18 +2477,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "60b193b9-e413-48ab-97e6-db884eb7035a")
-	)
-	(junction
-		(at 142.24 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "62ba0db3-7107-4749-869c-40507d64d756")
-	)
-	(junction
-		(at 151.13 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "690a5674-50cc-44cc-87b7-fb317b75b892")
 	)
 	(junction
 		(at 161.29 132.08)
@@ -3505,16 +3499,6 @@
 			(type default)
 		)
 		(uuid "e8004572-5baa-4bfb-8218-9fe951e207fd")
-	)
-	(wire
-		(pts
-			(xy 142.24 139.7) (xy 151.13 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea936222-6edf-48ef-becb-23df0bad0c42")
 	)
 	(wire
 		(pts
@@ -5953,6 +5937,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 181.61 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b0e2cc49-1713-4f3b-aa71-c495b400ce91")
+		(property "Reference" "#PWR090"
+			(at 181.61 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 181.61 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 181.61 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 181.61 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c8a689d7-d603-4ae5-acc4-3e29e2f0c5e6")
+		)
+		(instances
+			(project "Alpha_Breakout"
+				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f19b3af3-949e-4bd9-966f-10ca206af398"
+					(reference "#PWR090")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 142.24 135.89 0)
 		(unit 1)
@@ -5970,7 +6020,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0"
 			(at 136.652 137.16 0)
 			(effects
 				(font
