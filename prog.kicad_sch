@@ -1838,7 +1838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b963626-c72c-4f63-8eb2-96105638c07b")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR012"
 			(at 93.98 81.28 0)
 			(effects
 				(font
@@ -1888,7 +1888,7 @@
 		(instances
 			(project ""
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f4fd7486-9603-4999-ad4a-c6ff352c8897"
-					(reference "#PWR06")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -1904,7 +1904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3198f35c-d16f-40b8-afd0-bb9f2467e0d7")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 144.3833 91.44 0)
 			(effects
 				(font
@@ -1976,7 +1976,7 @@
 		(instances
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f4fd7486-9603-4999-ad4a-c6ff352c8897"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -2187,7 +2187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf55632f-de02-4ebf-b809-356faa973a84")
-		(property "Reference" "R3"
+		(property "Reference" "R5"
 			(at 111.76 109.2199 0)
 			(effects
 				(font
@@ -2241,7 +2241,7 @@
 		(instances
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f4fd7486-9603-4999-ad4a-c6ff352c8897"
-					(reference "R3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -2257,7 +2257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da2ed79b-bfdd-45b7-9c17-01ef799d5b28")
-		(property "Reference" "R2"
+		(property "Reference" "R4"
 			(at 101.6 109.2199 0)
 			(effects
 				(font
@@ -2311,7 +2311,7 @@
 		(instances
 			(project ""
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f4fd7486-9603-4999-ad4a-c6ff352c8897"
-					(reference "R2")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -2327,7 +2327,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dddb69f3-ed05-4859-b162-af17705b986a")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR011"
 			(at 71.12 138.43 0)
 			(effects
 				(font
@@ -2377,7 +2377,7 @@
 		(instances
 			(project ""
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f4fd7486-9603-4999-ad4a-c6ff352c8897"
-					(reference "#PWR05")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -2393,7 +2393,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f49a7b0d-b78c-4cb8-842c-e30390021d82")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR013"
 			(at 142.24 93.98 0)
 			(effects
 				(font
@@ -2443,7 +2443,7 @@
 		(instances
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f4fd7486-9603-4999-ad4a-c6ff352c8897"
-					(reference "#PWR04")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
