@@ -49,8 +49,8 @@
 		(uuid "e09935fa-6465-4e15-9781-54a0fa035016")
 	)
 	(sheet
-		(at 66.04 55.88)
-		(size 40.64 11.43)
+		(at 99.06 53.34)
+		(size 22.86 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -65,7 +65,7 @@
 		)
 		(uuid "7206d2b0-7b5f-4365-98b4-710ce982513e")
 		(property "Sheetname" "thermoAmps"
-			(at 66.04 55.1684 0)
+			(at 99.06 52.6284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74,7 +74,7 @@
 			)
 		)
 		(property "Sheetfile" "thermoAms.kicad_sch"
-			(at 66.04 67.8946 0)
+			(at 99.06 72.9746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -91,8 +91,8 @@
 		)
 	)
 	(sheet
-		(at 140.97 76.2)
-		(size 25.4 25.4)
+		(at 140.97 63.5)
+		(size 25.4 38.1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -107,7 +107,7 @@
 		)
 		(uuid "9cbbe99d-ef26-4275-9460-efaf874d2391")
 		(property "Sheetname" "stm32f1"
-			(at 140.97 75.4884 0)
+			(at 140.97 62.7884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -165,7 +165,7 @@
 			)
 		)
 		(pin "SPI1_SCK" input
-			(at 140.97 81.28 180)
+			(at 140.97 76.2 180)
 			(uuid "15fe0d52-145f-40f9-8082-bd4075344e49")
 			(effects
 				(font
@@ -175,7 +175,7 @@
 			)
 		)
 		(pin "SPI1_MOSI" input
-			(at 140.97 83.82 180)
+			(at 140.97 78.74 180)
 			(uuid "56c030e3-5cfb-42bc-9263-e8c576553d34")
 			(effects
 				(font
@@ -185,8 +185,48 @@
 			)
 		)
 		(pin "SPI1_MISO" input
-			(at 140.97 86.36 180)
+			(at 140.97 81.28 180)
 			(uuid "171fd6f9-f00b-4d3d-9ba1-fe67651c3e64")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TC2_CS" input
+			(at 140.97 71.12 180)
+			(uuid "74f0054c-6a7f-4482-a334-8b9ef96b806f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TC4_CS" input
+			(at 140.97 66.04 180)
+			(uuid "874aa1e6-f6d0-4fc4-9f16-2b5e99fb0658")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TC3_CS" input
+			(at 140.97 68.58 180)
+			(uuid "8a79f972-fd9e-4e2e-be25-6f52830264f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TC1_CS" input
+			(at 140.97 73.66 180)
+			(uuid "db85eba5-05a5-4bb6-9929-33bc82570a0c")
 			(effects
 				(font
 					(size 1.27 1.27)
