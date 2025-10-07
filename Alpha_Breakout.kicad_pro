@@ -652,6 +652,14 @@
     [
       "f19b3af3-949e-4bd9-966f-10ca206af398",
       "Power"
+    ],
+    [
+      "2737056b-ccd7-4e41-8344-310a2fcc2cb6",
+      "RS-485"
+    ],
+    [
+      "35c95cc3-df8a-4783-afe3-ab3213678190",
+      "Accelerometer"
     ]
   ],
   "text_variables": {}

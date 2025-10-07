@@ -3,4 +3,6 @@
   (lib (name "XT-30")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/XT-30")(options "")(descr ""))
   (lib (name "TPS513885VABR")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/TPS513885VABR/TPS513885VABR.pretty")(options "")(descr ""))
   (lib (name "LM66200DRLR")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/LM66200DRLR/LM66200DRLR.pretty")(options "")(descr ""))
+  (lib (name "SM02B-GHS")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/SM02B-GHS/SM02B-GHS.pretty")(options "")(descr ""))
+  (lib (name "SM04B-GHS")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/SM04B-GHS/SM04B-GHS.pretty")(options "")(descr ""))
 )
