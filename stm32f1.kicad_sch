@@ -2318,6 +2318,28 @@
 		)
 		(uuid "008a2aa9-efcd-4acf-bcd5-9e36267012aa")
 	)
+	(hierarchical_label "I2C2_SCL"
+		(shape input)
+		(at 123.19 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "06b767fe-de0c-47b4-85c7-42b0924c6abc")
+	)
+	(hierarchical_label "UART_2_RX"
+		(shape input)
+		(at 158.75 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "097d6f17-0451-45a8-9cf6-e6fd25127d15")
+	)
 	(hierarchical_label "SPI1_SCK"
 		(shape input)
 		(at 158.75 83.82 0)
@@ -2329,9 +2351,20 @@
 		)
 		(uuid "355ac3b3-f77e-444d-8ea0-fdafc7c65dda")
 	)
+	(hierarchical_label "DIR_RS485"
+		(shape input)
+		(at 158.75 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "359e09f6-f836-4c21-8603-9554165c3b51")
+	)
 	(hierarchical_label "TC3_CS"
 		(shape input)
-		(at 158.75 78.74 0)
+		(at 158.75 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2340,7 +2373,18 @@
 		)
 		(uuid "4238a5da-c820-4403-b9d4-36229ff14de7")
 	)
-	(hierarchical_label "SCL"
+	(hierarchical_label "I2C2_SDA"
+		(shape input)
+		(at 123.19 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5dfd0ccb-b9b2-496a-830a-571622e5fb99")
+	)
+	(hierarchical_label "I2C1_SCL"
 		(shape input)
 		(at 91.44 114.3 180)
 		(effects
@@ -2364,7 +2408,7 @@
 	)
 	(hierarchical_label "TC4_CS"
 		(shape input)
-		(at 158.75 81.28 0)
+		(at 158.75 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2372,6 +2416,17 @@
 			(justify left)
 		)
 		(uuid "7e9a441a-5cfd-4a8b-9ed8-45bd47b643b7")
+	)
+	(hierarchical_label "UART_2_TX"
+		(shape input)
+		(at 158.75 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "898de8d5-fd96-4cf0-aeee-0dec784f71b6")
 	)
 	(hierarchical_label "TC1_CS"
 		(shape input)
@@ -2417,7 +2472,7 @@
 		)
 		(uuid "e54c58a3-af3b-4d9e-bcca-2137a6c96cab")
 	)
-	(hierarchical_label "SDA"
+	(hierarchical_label "I2C1_SDA"
 		(shape input)
 		(at 91.44 116.84 180)
 		(effects
