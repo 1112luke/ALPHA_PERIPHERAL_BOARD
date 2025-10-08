@@ -5946,7 +5946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0e2cc49-1713-4f3b-aa71-c495b400ce91")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR0101"
 			(at 181.61 146.05 0)
 			(effects
 				(font
@@ -5996,7 +5996,7 @@
 		(instances
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f19b3af3-949e-4bd9-966f-10ca206af398"
-					(reference "#PWR090")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)

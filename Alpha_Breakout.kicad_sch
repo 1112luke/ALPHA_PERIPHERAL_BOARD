@@ -521,6 +521,88 @@
 		)
 	)
 	(sheet
+		(at 49.53 92.71)
+		(size 31.75 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2e0053fd-4344-479e-8bb9-1383fd6257db")
+		(property "Sheetname" "Solenoids"
+			(at 49.53 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Solenoids.kicad_sch"
+			(at 49.53 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "S1" input
+			(at 66.04 92.71 90)
+			(uuid "da67cc90-ebc2-43a7-8c39-d35e7285c63b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "S2" input
+			(at 68.58 92.71 90)
+			(uuid "fb6d6f3b-2b66-4f2f-af99-4aae8eaab1d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "S3" input
+			(at 71.12 92.71 90)
+			(uuid "3ca2655f-2729-4771-ab39-190737b194c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "S4" input
+			(at 73.66 92.71 90)
+			(uuid "14bfce8b-31d2-4e0a-8a9d-ea76bad74086")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Alpha_Breakout"
+				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 189.23 76.2)
 		(size 17.78 10.16)
 		(exclude_from_sim no)
