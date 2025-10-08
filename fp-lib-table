@@ -5,4 +5,5 @@
   (lib (name "LM66200DRLR")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/LM66200DRLR/LM66200DRLR.pretty")(options "")(descr ""))
   (lib (name "SM02B-GHS")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/SM02B-GHS/SM02B-GHS.pretty")(options "")(descr ""))
   (lib (name "SM04B-GHS")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/SM04B-GHS/SM04B-GHS.pretty")(options "")(descr ""))
+  (lib (name "CSD13381F4")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/CSD13381F4/CSD13381F4.pretty")(options "")(descr ""))
 )

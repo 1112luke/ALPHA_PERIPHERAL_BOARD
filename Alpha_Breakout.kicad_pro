@@ -660,6 +660,10 @@
     [
       "35c95cc3-df8a-4783-afe3-ab3213678190",
       "Accelerometer"
+    ],
+    [
+      "2e0053fd-4344-479e-8bb9-1383fd6257db",
+      "Solenoids"
     ]
   ],
   "text_variables": {}
