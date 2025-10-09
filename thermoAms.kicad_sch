@@ -2201,7 +2201,7 @@
 		)
 		(uuid "40947b26-583b-475b-a57e-f63eb246c072")
 	)
-	(hierarchical_label "TC1_CS"
+	(hierarchical_label "TC4_CS"
 		(shape input)
 		(at 214.63 137.16 0)
 		(effects
@@ -2245,7 +2245,7 @@
 		)
 		(uuid "5ebd1951-5c83-454f-b855-12d6c610a834")
 	)
-	(hierarchical_label "TC1_CS"
+	(hierarchical_label "TC2_CS"
 		(shape input)
 		(at 215.9 58.42 0)
 		(effects
@@ -2256,7 +2256,7 @@
 		)
 		(uuid "632c6302-f07c-461c-a14c-09dc5221fa19")
 	)
-	(hierarchical_label "TC1_CS"
+	(hierarchical_label "TC3_CS"
 		(shape input)
 		(at 107.95 137.16 0)
 		(effects
