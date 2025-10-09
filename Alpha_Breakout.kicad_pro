@@ -668,6 +668,14 @@
     [
       "735e38ae-5821-41a3-94ab-8045f709fb34",
       "ADS1231"
+    ],
+    [
+      "1d3635ca-ff21-408a-be61-931c18b65b0c",
+      "Hardware_Safe"
+    ],
+    [
+      "972d75bc-2192-4dfc-9be4-cbf40905f0e9",
+      "Pyro"
     ]
   ],
   "text_variables": {}
