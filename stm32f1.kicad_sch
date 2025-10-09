@@ -2545,6 +2545,28 @@
 		)
 		(uuid "7e9a441a-5cfd-4a8b-9ed8-45bd47b643b7")
 	)
+	(hierarchical_label "PYRO1"
+		(shape input)
+		(at 158.75 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "83278e89-5a16-41e7-9fd4-fd8d5bba1c5f")
+	)
+	(hierarchical_label "K1"
+		(shape input)
+		(at 123.19 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "876f9ccf-1d37-43cb-8792-4578c61d36a8")
+	)
 	(hierarchical_label "UART_2_TX"
 		(shape input)
 		(at 158.75 76.2 0)
@@ -2566,6 +2588,17 @@
 			(justify right)
 		)
 		(uuid "92eb5940-9f32-47f7-bd71-10339551ae36")
+	)
+	(hierarchical_label "BW1"
+		(shape input)
+		(at 123.19 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aaea62b3-a129-451d-aba6-09357717f002")
 	)
 	(hierarchical_label "TC1_CS"
 		(shape input)
@@ -2632,6 +2665,17 @@
 			(justify right)
 		)
 		(uuid "effde9c1-96e4-4919-93d6-9d5c891f4d5d")
+	)
+	(hierarchical_label "K2"
+		(shape input)
+		(at 123.19 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fcb9d35d-af99-40c7-ac90-6efdc2ac6574")
 	)
 	(hierarchical_label "I2C1_SDA"
 		(shape input)
@@ -2859,7 +2903,7 @@
 		(dnp no)
 		(uuid "28dc28cb-fc0b-4c41-b253-5f8536d10446")
 		(property "Reference" "C33"
-			(at 114.3 78.74 0)
+			(at 109.728 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2868,7 +2912,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 114.3 81.28 0)
+			(at 109.728 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
