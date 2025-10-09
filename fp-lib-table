@@ -6,4 +6,5 @@
   (lib (name "SM02B-GHS")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/SM02B-GHS/SM02B-GHS.pretty")(options "")(descr ""))
   (lib (name "SM04B-GHS")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/SM04B-GHS/SM04B-GHS.pretty")(options "")(descr ""))
   (lib (name "CSD13381F4")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/CSD13381F4/CSD13381F4.pretty")(options "")(descr ""))
+  (lib (name "ADS1231ID")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/ADS1231ID/ADS1231ID.pretty")(options "")(descr ""))
 )
