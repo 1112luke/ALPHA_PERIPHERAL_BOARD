@@ -1154,147 +1154,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Regulator_Linear:L78L10_SOT89"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -3.81 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "L78L10_SOT89"
-				(at -0.635 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-89-3"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf"
-				(at 0 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Positive 100mA 30V Linear Regulator, Fixed Output 10V, SOT-89"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Voltage Regulator 100mA Positive"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOT?89*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "L78L10_SOT89_0_1"
-				(rectangle
-					(start -5.08 1.905)
-					(end 5.08 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "L78L10_SOT89_1_1"
-				(pin power_in line
-					(at -7.62 0 0)
-					(length 2.54)
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "OUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Regulator_Linear:LP2985-3.3"
 			(pin_names
 				(offset 0.254)
@@ -2093,131 +1952,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+10V"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+10V"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+10V\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+10V_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+10V_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:+3.3V"
 			(power)
 			(pin_numbers
@@ -2856,18 +2590,6 @@
 		)
 		(uuid 2fad5b8d-b750-4bf5-a99f-48198c60d769)
 	)
-	(rectangle
-		(start 173.99 31.75)
-		(end 210.82 60.96)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid d1137843-c760-48df-9759-1dfdf9320cac)
-	)
 	(text "Battery"
 		(exclude_from_sim no)
 		(at 37.338 65.024 0)
@@ -2877,16 +2599,6 @@
 			)
 		)
 		(uuid "1f4d2dd7-64ae-404c-b07c-54f4bb001edc")
-	)
-	(text "Load Cell Reg (10v)"
-		(exclude_from_sim no)
-		(at 183.642 30.48 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "4b4bd177-2f4f-4f38-bd5c-1802fa632537")
 	)
 	(text "TODO: ensure all parts here are rated for voltage/amperage"
 		(exclude_from_sim no)
@@ -3135,12 +2847,6 @@
 		(uuid "a0ba8aae-81ce-43e3-bcbd-7dbd2de3fe5e")
 	)
 	(junction
-		(at 204.47 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a65e0a71-c23f-46d5-b720-34d95b567889")
-	)
-	(junction
 		(at 125.73 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3163,12 +2869,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c1fde694-1022-414a-ad03-9d806eb406cb")
-	)
-	(junction
-		(at 189.23 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d0a13bce-6adf-4c40-b655-d117cb468eaa")
 	)
 	(junction
 		(at 205.74 102.87)
@@ -3295,16 +2995,6 @@
 			(type default)
 		)
 		(uuid "1774696e-8151-449e-97df-6679fd9d874a")
-	)
-	(wire
-		(pts
-			(xy 189.23 52.07) (xy 204.47 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17f46f0a-afbd-4952-b164-a54f3336a5f1")
 	)
 	(wire
 		(pts
@@ -3788,16 +3478,6 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 44.45) (xy 181.61 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a010924-d0e2-4914-8a99-58faba63e3c7")
-	)
-	(wire
-		(pts
 			(xy 226.06 111.76) (xy 226.06 113.03)
 		)
 		(stroke
@@ -3945,16 +3625,6 @@
 			(type default)
 		)
 		(uuid "9307b68a-c81b-4dd2-a762-e7b49c80563d")
-	)
-	(wire
-		(pts
-			(xy 179.07 43.18) (xy 179.07 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93f1ebfe-1dc3-446b-9628-1e357684a26a")
 	)
 	(wire
 		(pts
@@ -4108,16 +3778,6 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 43.18) (xy 204.47 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5a3e4e0-aa7d-43b9-95e7-647c16dac0f5")
-	)
-	(wire
-		(pts
 			(xy 220.98 120.65) (xy 222.25 120.65)
 		)
 		(stroke
@@ -4225,16 +3885,6 @@
 			(type default)
 		)
 		(uuid "d12debd8-adef-475a-af43-549cb0b0bacf")
-	)
-	(wire
-		(pts
-			(xy 196.85 44.45) (xy 204.47 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d161f13a-de6b-4f61-bc2a-7bf90f558234")
 	)
 	(wire
 		(pts
@@ -4766,141 +4416,6 @@
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f19b3af3-949e-4bd9-966f-10ca206af398"
 					(reference "#PWR036")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 204.47 48.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "17764b49-d1f4-4d28-8485-7b8d69f421d6")
-		(property "Reference" "C48"
-			(at 198.374 45.974 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 198.374 48.514 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 205.4352 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 204.47 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 204.47 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7e588692-ec0b-4e66-b58a-a9fe15f6e1f5")
-		)
-		(pin "1"
-			(uuid "cff5c3c7-a53b-47fc-90a0-ff4802cabf4a")
-		)
-		(instances
-			(project "Alpha_Breakout"
-				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f19b3af3-949e-4bd9-966f-10ca206af398"
-					(reference "C48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+BATT")
-		(at 179.07 43.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1779040c-be65-4654-87d8-e0cf0b9114dc")
-		(property "Reference" "#PWR0108"
-			(at 179.07 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+BATT"
-			(at 179.07 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 179.07 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 179.07 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 179.07 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c4043917-f0a8-4f89-9ad9-6870aaa9f632")
-		)
-		(instances
-			(project "Alpha_Breakout"
-				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f19b3af3-949e-4bd9-966f-10ca206af398"
-					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -6998,72 +6513,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+10V")
-		(at 204.47 43.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8a2f8efc-b7b0-46e7-a5d8-9ba2bca2a5b9")
-		(property "Reference" "#PWR0109"
-			(at 204.47 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+10V"
-			(at 204.47 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 204.47 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 204.47 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+10V\""
-			(at 204.47 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7de495dc-7216-4a6c-8920-e745e72b1be4")
-		)
-		(instances
-			(project ""
-				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f19b3af3-949e-4bd9-966f-10ca206af398"
-					(reference "#PWR0109")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 143.51 120.65 0)
 		(unit 1)
@@ -8251,78 +7700,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Linear:L78L10_SOT89")
-		(at 189.23 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d6f74039-870a-46b8-8bee-714b81fc6bbe")
-		(property "Reference" "U12"
-			(at 189.23 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "L78L10_SOT89"
-			(at 189.23 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-89-3"
-			(at 189.23 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf"
-			(at 189.23 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Positive 100mA 30V Linear Regulator, Fixed Output 10V, SOT-89"
-			(at 189.23 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "2c7c973e-866d-4e54-add4-1c08422adc05")
-		)
-		(pin "2"
-			(uuid "d6df04ea-edae-49f8-b44b-ea107b232039")
-		)
-		(pin "1"
-			(uuid "a3cc4ca9-ec55-43d0-996c-c3f5aa2b0f1d")
-		)
-		(instances
-			(project ""
-				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f19b3af3-949e-4bd9-966f-10ca206af398"
-					(reference "U12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 68.58 114.3 270)
 		(unit 1)
@@ -8722,72 +8099,6 @@
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f19b3af3-949e-4bd9-966f-10ca206af398"
 					(reference "C18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 189.23 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f2dd63fd-0afa-4347-b2db-cff61bbaa4b8")
-		(property "Reference" "#PWR0107"
-			(at 189.23 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 189.23 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 189.23 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c346ffc8-3748-43be-91ae-cb7630e24f21")
-		)
-		(instances
-			(project "Alpha_Breakout"
-				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/f19b3af3-949e-4bd9-966f-10ca206af398"
-					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
