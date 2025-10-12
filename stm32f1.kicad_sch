@@ -2435,6 +2435,17 @@
 		)
 		(uuid "008a2aa9-efcd-4acf-bcd5-9e36267012aa")
 	)
+	(hierarchical_label "LC_DRDY{slash}DOUT"
+		(shape input)
+		(at 158.75 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "023dda71-d104-467e-a75e-d9ad7e7ca751")
+	)
 	(hierarchical_label "I2C2_SCL"
 		(shape input)
 		(at 123.19 127 180)
@@ -2446,6 +2457,17 @@
 		)
 		(uuid "06b767fe-de0c-47b4-85c7-42b0924c6abc")
 	)
+	(hierarchical_label "PB9"
+		(shape input)
+		(at 123.19 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "071c61d9-5a4c-4f5a-8919-6309c1fd6080")
+	)
 	(hierarchical_label "UART_2_RX"
 		(shape input)
 		(at 158.75 78.74 0)
@@ -2456,6 +2478,28 @@
 			(justify left)
 		)
 		(uuid "097d6f17-0451-45a8-9cf6-e6fd25127d15")
+	)
+	(hierarchical_label "PB3"
+		(shape input)
+		(at 123.19 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "13784d8a-d06a-4b67-a2fe-5337d187724e")
+	)
+	(hierarchical_label "PB4"
+		(shape input)
+		(at 123.19 109.22 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "312269ed-9866-484f-a685-a1b4cae57ad7")
 	)
 	(hierarchical_label "SPI1_SCK"
 		(shape input)
@@ -2501,6 +2545,39 @@
 		)
 		(uuid "4238a5da-c820-4403-b9d4-36229ff14de7")
 	)
+	(hierarchical_label "PA13"
+		(shape input)
+		(at 158.75 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "449711dd-258a-41af-9e88-c06a6b000ec2")
+	)
+	(hierarchical_label "LC_SCLK"
+		(shape input)
+		(at 158.75 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4adb5e9a-9616-4c30-82d8-7f34e987d288")
+	)
+	(hierarchical_label "PA15"
+		(shape input)
+		(at 158.75 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5c8e89cb-8880-4c99-94eb-edb792f164e9")
+	)
 	(hierarchical_label "I2C2_SDA"
 		(shape input)
 		(at 123.19 124.46 180)
@@ -2511,6 +2588,17 @@
 			(justify right)
 		)
 		(uuid "5dfd0ccb-b9b2-496a-830a-571622e5fb99")
+	)
+	(hierarchical_label "PA14"
+		(shape input)
+		(at 158.75 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "64d798b6-b980-42c7-880c-7a73f79f630c")
 	)
 	(hierarchical_label "I2C1_SCL"
 		(shape input)
@@ -2589,6 +2677,17 @@
 		)
 		(uuid "92eb5940-9f32-47f7-bd71-10339551ae36")
 	)
+	(hierarchical_label "PC15"
+		(shape input)
+		(at 123.19 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "94f81060-0771-443d-83a7-93c346bfd99f")
+	)
 	(hierarchical_label "BW1"
 		(shape input)
 		(at 123.19 104.14 180)
@@ -2599,6 +2698,17 @@
 			(justify right)
 		)
 		(uuid "aaea62b3-a129-451d-aba6-09357717f002")
+	)
+	(hierarchical_label "PB5"
+		(shape input)
+		(at 123.19 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ac245a75-f64d-49e6-bbe6-981a85a4bb14")
 	)
 	(hierarchical_label "TC1_CS"
 		(shape input)
@@ -2621,6 +2731,17 @@
 			(justify left)
 		)
 		(uuid "b46ca6bd-fab5-46dc-9d09-73023061bdbd")
+	)
+	(hierarchical_label "PB8"
+		(shape input)
+		(at 123.19 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c028d8a8-aba3-4410-aa5b-a66dd1bf5ca7")
 	)
 	(hierarchical_label "SPI1_MISO"
 		(shape input)
@@ -2666,6 +2787,17 @@
 		)
 		(uuid "effde9c1-96e4-4919-93d6-9d5c891f4d5d")
 	)
+	(hierarchical_label "PC14"
+		(shape input)
+		(at 123.19 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f8697833-d18c-41f1-a23e-4b7c312efc65")
+	)
 	(hierarchical_label "K2"
 		(shape input)
 		(at 123.19 83.82 180)
@@ -2687,6 +2819,17 @@
 			(justify right)
 		)
 		(uuid "fe3a5f3f-e9db-4d48-afa7-89285bb1f585")
+	)
+	(hierarchical_label "PC13"
+		(shape input)
+		(at 123.19 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fe6321b4-4096-4274-9a83-be1d6558ae1a")
 	)
 	(symbol
 		(lib_id "Device:C")
