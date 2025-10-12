@@ -1494,7 +1494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ae9b414-0749-4e77-86c6-bee7427705b7")
-		(property "Reference" "J30"
+		(property "Reference" "J34"
 			(at 134.62 114.2999 90)
 			(effects
 				(font
@@ -1548,7 +1548,7 @@
 		(instances
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/972d75bc-2192-4dfc-9be4-cbf40905f0e9"
-					(reference "J30")
+					(reference "J34")
 					(unit 1)
 				)
 			)
@@ -1564,7 +1564,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57ed77fb-6fe6-4520-bbf1-9192e63e5756")
-		(property "Reference" "R25"
+		(property "Reference" "R26"
 			(at 139.7 82.5499 0)
 			(effects
 				(font
@@ -1618,7 +1618,7 @@
 		(instances
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/972d75bc-2192-4dfc-9be4-cbf40905f0e9"
-					(reference "R25")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -1799,7 +1799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b446a16-828c-4ab7-a50a-8bd8c13e32f5")
-		(property "Reference" "#PWR0116"
+		(property "Reference" "#PWR0115"
 			(at 132.08 82.55 0)
 			(effects
 				(font
@@ -1849,7 +1849,7 @@
 		(instances
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/972d75bc-2192-4dfc-9be4-cbf40905f0e9"
-					(reference "#PWR0116")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -1865,7 +1865,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fa987f3-d747-4e50-a89a-138d791fb0c8")
-		(property "Reference" "R26"
+		(property "Reference" "R27"
 			(at 147.32 90.1699 0)
 			(effects
 				(font
@@ -1919,7 +1919,7 @@
 		(instances
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/972d75bc-2192-4dfc-9be4-cbf40905f0e9"
-					(reference "R26")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -1935,7 +1935,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1d11791-3ed4-4f37-be2c-a569f49851da")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR0116"
 			(at 149.86 120.65 0)
 			(effects
 				(font
@@ -1985,7 +1985,7 @@
 		(instances
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/972d75bc-2192-4dfc-9be4-cbf40905f0e9"
-					(reference "#PWR0117")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
