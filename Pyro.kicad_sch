@@ -1906,7 +1906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SM02B-GHS:CONN_SM02B-GHS_JST"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 132.08 115.57 0)
 			(effects
 				(font
@@ -2513,7 +2513,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "BM02B-GHS:JST_BM02B-GHS-TBT_LF__SN_"
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 			(at 85.09 81.28 0)
 			(effects
 				(font
