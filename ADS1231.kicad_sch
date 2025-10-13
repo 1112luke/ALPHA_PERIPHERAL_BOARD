@@ -2444,7 +2444,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SM04B-GHS:JST_SM04B-GHS-TB_LF__SN_-"
 			(at 100.33 91.44 0)
 			(effects
 				(font
