@@ -2942,17 +2942,6 @@
 		)
 		(uuid "92eb5940-9f32-47f7-bd71-10339551ae36")
 	)
-	(hierarchical_label "PC15"
-		(shape input)
-		(at 123.19 93.98 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "94f81060-0771-443d-83a7-93c346bfd99f")
-	)
 	(hierarchical_label "BW1"
 		(shape input)
 		(at 123.19 104.14 180)
@@ -3052,17 +3041,6 @@
 		)
 		(uuid "effde9c1-96e4-4919-93d6-9d5c891f4d5d")
 	)
-	(hierarchical_label "PC14"
-		(shape input)
-		(at 123.19 91.44 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f8697833-d18c-41f1-a23e-4b7c312efc65")
-	)
 	(hierarchical_label "K2"
 		(shape input)
 		(at 123.19 83.82 180)
@@ -3084,17 +3062,6 @@
 			(justify right)
 		)
 		(uuid "fe3a5f3f-e9db-4d48-afa7-89285bb1f585")
-	)
-	(hierarchical_label "PC13"
-		(shape input)
-		(at 123.19 88.9 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fe6321b4-4096-4274-9a83-be1d6558ae1a")
 	)
 	(symbol
 		(lib_id "Device:R")
