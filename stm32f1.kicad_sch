@@ -3282,12 +3282,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C72041"
+		(property "JLC#" "C965807"
 			(at 115.57 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3734,12 +3735,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C2286"
-			(at 115.57 88.9 0)
+		(property "JLC#" "C965799"
+			(at 114.808 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3765,7 +3767,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "34bf8aa5-34b5-42b3-b2f2-074d06011df7")
 		(property "Reference" "SW2"
 			(at 104.14 49.53 0)
@@ -3811,11 +3812,12 @@
 			)
 		)
 		(property "JLC#" "C231329"
-			(at 104.14 57.15 0)
+			(at 104.14 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4127,7 +4129,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Yellow"
+		(property "Value" "White"
 			(at 111.76 88.9 0)
 			(effects
 				(font
@@ -4173,12 +4175,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C84264"
-			(at 115.57 91.44 0)
+		(property "JLC#" "C965808"
+			(at 114.554 90.424 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4820,12 +4823,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C231329"
-			(at 69.85 78.74 0)
+		(property "JLC#" " C231329"
+			(at 72.136 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"

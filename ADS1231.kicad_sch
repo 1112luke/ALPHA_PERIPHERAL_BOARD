@@ -1756,12 +1756,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C486034"
+		(property "JLC#" "C486034 "
 			(at 147.32 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -2509,6 +2510,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"

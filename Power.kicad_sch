@@ -4597,7 +4597,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_1008_2520Metric"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FNR4030S"
 			(at 138.43 66.04 0)
 			(effects
 				(font
@@ -4624,12 +4624,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C167874"
 			(at 138.43 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4732,7 +4733,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "White"
 			(at 166.37 153.9874 90)
 			(effects
 				(font
@@ -4777,12 +4778,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C2286"
+		(property "JLC#" "C965808"
 			(at 162.56 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5235,6 +5237,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5287,7 +5290,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_1008_2520Metric"
+		(property "Footprint" "CYA0630-1.5UH:IND_CYA0630_SHH"
 			(at 110.49 139.7 0)
 			(effects
 				(font
@@ -5314,12 +5317,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C5832363"
+		(property "JLC#" "C5189745 "
 			(at 110.49 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5421,7 +5425,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "White"
 			(at 162.56 81.5974 90)
 			(effects
 				(font
@@ -5466,12 +5470,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C2286"
+		(property "JLC#" "C965808"
 			(at 158.75 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6480,6 +6485,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "6"
@@ -6767,7 +6773,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "White"
 			(at 242.57 120.9674 90)
 			(effects
 				(font
@@ -6812,12 +6818,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C84264"
+		(property "JLC#" "C965808"
 			(at 238.76 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6971,6 +6978,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -7743,7 +7751,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "200"
+		(property "Value" "100"
 			(at 213.3599 102.87 0)
 			(effects
 				(font
@@ -7931,12 +7939,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C72041"
+		(property "JLC#" "C965807"
 			(at 222.25 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8475,7 +8484,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "200"
+		(property "Value" "100"
 			(at 234.95 117.348 0)
 			(effects
 				(font
@@ -8667,12 +8676,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "LM66200DRLR:SOT8"
+		(property "JLC#" "C3235556"
 			(at 205.74 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
