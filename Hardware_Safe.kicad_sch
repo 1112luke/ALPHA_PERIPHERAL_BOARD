@@ -785,6 +785,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" ""
+			(at 180.34 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "368eec1e-9a4f-4147-8346-e54445255d41")
 		)
@@ -919,6 +927,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" ""
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1123,6 +1139,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" "C161690"
+			(at 186.69 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c57fe0ed-73ed-403a-8a53-de8226c282cc")
 		)
@@ -1191,6 +1215,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" "C161690"
+			(at 135.89 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
