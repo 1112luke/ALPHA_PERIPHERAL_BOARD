@@ -2230,12 +2230,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C918120"
 			(at 132.08 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2326,12 +2327,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C8678"
 			(at 247.65 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2567,6 +2569,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -2642,12 +2645,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C161690"
+		(property "JLC#" " C161690"
 			(at 72.39 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -2718,14 +2722,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "JLC#" ""
-			(at 59.69 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "1"
@@ -2882,12 +2878,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C8678"
 			(at 163.83 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2960,12 +2957,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C918120"
 			(at 173.99 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3135,6 +3133,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -3210,12 +3209,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C918120"
 			(at 215.9 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3306,12 +3306,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C8678"
 			(at 205.74 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3481,6 +3482,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -3640,12 +3642,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C8678"
 			(at 121.92 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3815,6 +3818,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -4022,12 +4026,13 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C918120"
 			(at 257.81 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
