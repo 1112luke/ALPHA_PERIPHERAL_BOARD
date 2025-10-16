@@ -692,6 +692,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" ""
+			(at 149.86 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2588811d-360e-49e4-9d5e-4f68bd50900f")
 		)
@@ -889,6 +897,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" "C189895"
+			(at 168.91 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "4"

@@ -3118,6 +3118,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" ""
+			(at 107.95 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "31d90c21-9255-4d6e-a106-9166e3ca9d84")
 		)
@@ -3185,6 +3193,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" ""
+			(at 184.15 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3266,6 +3282,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" "C72041"
+			(at 115.57 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7ade0b91-eb19-4815-b6f0-9e8f89bfaaad")
 		)
@@ -3334,6 +3358,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" ""
+			(at 107.95 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -3472,6 +3504,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" ""
+			(at 97.79 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "98b153ec-ce37-4eec-9d4d-74889e611e19")
 		)
@@ -3539,6 +3579,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" ""
+			(at 77.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3686,6 +3734,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" "C2286"
+			(at 115.57 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8f5fefcb-8770-4375-a4a9-fde98844ed76")
 		)
@@ -3752,6 +3808,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" "C231329"
+			(at 104.14 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3956,6 +4020,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" ""
+			(at 107.95 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "993d4d3e-edcb-4edb-ac58-4491504c6362")
 		)
@@ -4101,6 +4173,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" "C84264"
+			(at 115.57 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "090fe75c-bb60-4b39-965c-782e73ef85c0")
 		)
@@ -4235,6 +4315,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" ""
+			(at 212.09 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4438,6 +4526,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" "C8734"
+			(at 140.97 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "7"
@@ -4647,6 +4743,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" ""
+			(at 224.79 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b3e439e3-7255-4d7f-b811-7fb5d80f73e4")
 		)
@@ -4716,6 +4820,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" "C231329"
+			(at 69.85 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ac3d29f7-93e0-4e77-8faa-33cf0f9d82b8")
 		)
@@ -4783,6 +4895,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" ""
+			(at 198.12 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4987,6 +5107,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" ""
+			(at 109.22 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ac85e5f1-5a07-41e2-837a-e53e7c8fd05f")
 		)
@@ -5055,6 +5183,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" ""
+			(at 107.95 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -5192,6 +5328,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLC#" ""
+			(at 168.91 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b58e4dcc-9cd2-45dd-9f6a-4fbd1040815b")
 		)
@@ -5326,6 +5470,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC#" ""
+			(at 243.84 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
