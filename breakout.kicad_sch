@@ -1228,14 +1228,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C29779989"
-			(at 148.59 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "5"
 			(uuid "739ff53d-3b87-4591-b1d9-47729290da35")
 		)
