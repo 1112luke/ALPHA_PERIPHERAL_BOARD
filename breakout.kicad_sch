@@ -896,7 +896,7 @@
 	)
 	(hierarchical_label "PB3"
 		(shape input)
-		(at 143.51 91.44 180)
+		(at 143.51 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -918,7 +918,7 @@
 	)
 	(hierarchical_label "PB5"
 		(shape input)
-		(at 143.51 96.52 180)
+		(at 143.51 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
