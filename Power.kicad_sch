@@ -2958,16 +2958,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 77.47) (xy 48.26 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "123ef3b0-9028-470f-b60c-55d2acff8950")
-	)
-	(wire
-		(pts
 			(xy 72.39 114.3) (xy 76.2 114.3)
 		)
 		(stroke
@@ -2985,6 +2975,16 @@
 			(type default)
 		)
 		(uuid "14b4735c-966c-4ac8-bcda-174e36713eb4")
+	)
+	(wire
+		(pts
+			(xy 60.96 80.01) (xy 60.96 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15e8b937-9b82-4e67-8814-ef460a2ed831")
 	)
 	(wire
 		(pts
@@ -3268,16 +3268,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 73.66) (xy 39.37 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4eda1b35-be05-41a0-87ef-3669273f0c85")
-	)
-	(wire
-		(pts
 			(xy 166.37 138.43) (xy 166.37 139.7)
 		)
 		(stroke
@@ -3365,6 +3355,16 @@
 			(type default)
 		)
 		(uuid "57dd5b35-9640-4cf7-84bd-ece1f56275ee")
+	)
+	(wire
+		(pts
+			(xy 53.34 77.47) (xy 53.34 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57e6d0b9-6639-4039-bc21-2ade2ea1161e")
 	)
 	(wire
 		(pts
@@ -3568,7 +3568,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 77.47) (xy 48.26 74.93)
+			(xy 50.8 80.01) (xy 50.8 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3635,16 +3635,6 @@
 			(type default)
 		)
 		(uuid "94c086b2-7559-40e4-8323-eb6a598e921a")
-	)
-	(wire
-		(pts
-			(xy 50.8 80.01) (xy 50.8 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "967a980b-7103-4b2e-a757-45cf4e0691c1")
 	)
 	(wire
 		(pts
@@ -3725,6 +3715,16 @@
 			(type default)
 		)
 		(uuid "a2dc9ca3-e02f-483f-998a-5e5a4b03f246")
+	)
+	(wire
+		(pts
+			(xy 53.34 80.01) (xy 60.96 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a691a6b7-49f4-48bb-8c2c-2fd5d75a3f06")
 	)
 	(wire
 		(pts
@@ -4959,16 +4959,15 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 48.26 69.85 90)
+		(at 50.8 72.39 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "399af02e-032b-4485-8920-bdc17941dff9")
 		(property "Reference" "J22"
-			(at 53.34 68.5799 90)
+			(at 44.704 71.628 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4977,7 +4976,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 53.34 71.1199 90)
+			(at 37.084 74.168 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4986,7 +4985,7 @@
 			)
 		)
 		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
-			(at 48.26 69.85 0)
+			(at 50.8 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4995,7 +4994,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 48.26 69.85 0)
+			(at 50.8 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5004,7 +5003,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 48.26 69.85 0)
+			(at 50.8 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5013,11 +5012,12 @@
 			)
 		)
 		(property "JLC#" "C431092"
-			(at 48.26 69.85 0)
+			(at 50.8 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6156,7 +6156,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 39.37 73.66 0)
+		(at 60.96 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6165,7 +6165,7 @@
 		(fields_autoplaced yes)
 		(uuid "7a30f2f0-1daf-472a-823e-90dcf46b61c0")
 		(property "Reference" "#PWR078"
-			(at 39.37 77.47 0)
+			(at 60.96 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6174,7 +6174,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 39.37 68.58 0)
+			(at 60.96 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6182,7 +6182,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 39.37 73.66 0)
+			(at 60.96 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6191,7 +6191,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 73.66 0)
+			(at 60.96 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6200,7 +6200,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 39.37 73.66 0)
+			(at 60.96 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
