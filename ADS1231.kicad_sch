@@ -1765,6 +1765,14 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number " "595-ADS1231ID "
+			(at 147.32 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "130851a2-25fb-4a31-a9d4-520bf90c1283")
 		)
@@ -2016,6 +2024,14 @@
 				)
 			)
 		)
+		(property "Mouser Part Number " "581-0402YD104JAT2A "
+			(at 125.73 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "01321117-25f0-4170-bffd-bf4d56a2723e")
 		)
@@ -2087,6 +2103,14 @@
 			)
 		)
 		(property "JLC#" ""
+			(at 163.83 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number " "581-04023D105KAT2A "
 			(at 163.83 97.79 0)
 			(effects
 				(font
@@ -2304,6 +2328,14 @@
 				)
 			)
 		)
+		(property "Mouser Part Number " "581-04023D105KAT2A "
+			(at 173.99 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c8d4c691-4a57-402a-9835-2b03d199396c")
 		)
@@ -2511,6 +2543,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Mouser Part Number " ""
+			(at 100.33 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

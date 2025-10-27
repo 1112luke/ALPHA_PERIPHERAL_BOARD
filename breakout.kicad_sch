@@ -1023,6 +1023,14 @@
 				)
 			)
 		)
+		(property "Mouser Part Number " ""
+			(at 100.33 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "Alpha_Breakout"
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/3b26e1ca-8e3a-48d3-a446-0eff88a99dd9"
@@ -1088,6 +1096,14 @@
 			)
 		)
 		(property "JLC#" ""
+			(at 100.33 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number " ""
 			(at 100.33 92.71 0)
 			(effects
 				(font
@@ -1167,6 +1183,14 @@
 				)
 			)
 		)
+		(property "Mouser Part Number " ""
+			(at 100.33 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project ""
 				(path "/bb73515c-a1ce-4448-8899-3a433fb04c26/3b26e1ca-8e3a-48d3-a446-0eff88a99dd9"
@@ -1226,6 +1250,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Mouser Part Number " ""
+			(at 148.59 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "5"
@@ -1591,6 +1623,14 @@
 			)
 		)
 		(property "JLC#" ""
+			(at 100.33 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number " ""
 			(at 100.33 97.79 0)
 			(effects
 				(font

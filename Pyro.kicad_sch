@@ -1871,6 +1871,14 @@
 				)
 			)
 		)
+		(property "Mouser Part Number " ""
+			(at 72.39 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e8cf882c-a985-4433-866e-99d8214f2566")
 		)
@@ -1939,6 +1947,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Mouser Part Number " ""
+			(at 132.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -2085,6 +2101,14 @@
 				)
 			)
 		)
+		(property "Mouser Part Number " "652-ZV20K0603300NIRH "
+			(at 137.16 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e7b756a2-cdce-4a3a-89bd-2c9d08166636")
 		)
@@ -2191,6 +2215,14 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number " ""
+			(at 142.24 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ccab7aff-2d92-411f-bc94-20c779a72527")
 		)
@@ -2270,6 +2302,14 @@
 				)
 			)
 		)
+		(property "Mouser Part Number " ""
+			(at 137.16 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1bfb5008-78ff-42be-9e6f-c5b3e0ab64cf")
 		)
@@ -2338,6 +2378,14 @@
 			)
 		)
 		(property "JLC#" ""
+			(at 144.78 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number " "810-NTCG164LH104H "
 			(at 144.78 91.44 0)
 			(effects
 				(font
@@ -2517,6 +2565,14 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number " "757-SSM3J328RLF "
+			(at 129.54 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "77ab0c2a-536f-41e7-98ac-0cb14d916ee6")
 		)
@@ -2597,6 +2653,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Mouser Part Number " ""
+			(at 85.09 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
