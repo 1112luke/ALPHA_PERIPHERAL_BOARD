@@ -5691,7 +5691,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C12891"
 			(at 130.81 120.65 0)
 			(effects
 				(font
@@ -6731,7 +6731,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C12891"
 			(at 143.51 120.65 0)
 			(effects
 				(font
@@ -6896,7 +6896,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C12891"
 			(at 118.11 120.65 0)
 			(effects
 				(font
@@ -7488,7 +7488,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" ""
+		(property "JLC#" "C60474"
 			(at 149.86 120.65 0)
 			(effects
 				(font

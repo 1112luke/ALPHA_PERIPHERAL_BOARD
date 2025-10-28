@@ -520,7 +520,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Production/TestProduction/Gerbers/",
+      "plot": "Production/V1.0/Gerbers/",
       "pos_files": "Production/TestProduction/Placement/",
       "specctra_dsn": "",
       "step": "",
@@ -586,7 +586,7 @@
           "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
