@@ -1736,7 +1736,7 @@
 	)
 	(hierarchical_label "USB_RX"
 		(shape input)
-		(at 203.2 93.98 0)
+		(at 203.2 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1747,7 +1747,7 @@
 	)
 	(hierarchical_label "USB_TX"
 		(shape input)
-		(at 203.2 96.52 0)
+		(at 203.2 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
