@@ -2149,6 +2149,10 @@
 		(color 0 0 0 0)
 		(uuid "f8f0a002-8bb3-4797-9374-7c92fad688b7")
 	)
+	(no_connect
+		(at 123.19 83.82)
+		(uuid "ed025be0-315d-40fa-b786-8c9ba8a37991")
+	)
 	(wire
 		(pts
 			(xy 143.51 63.5) (xy 146.05 63.5)
@@ -3040,17 +3044,6 @@
 			(justify right)
 		)
 		(uuid "effde9c1-96e4-4919-93d6-9d5c891f4d5d")
-	)
-	(hierarchical_label "K2"
-		(shape input)
-		(at 123.19 83.82 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fcb9d35d-af99-40c7-ac90-6efdc2ac6574")
 	)
 	(hierarchical_label "I2C1_SDA"
 		(shape input)
