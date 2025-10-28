@@ -1,7 +1,8 @@
 <h1 align="center">🥵🚀NDXP Alpha Peripheral Board🚀🌡️</h1>
 
 <p align="center">
-  <img width="973" height="979" alt="Screenshot 2025-10-26 at 5 07 59 PM" src="https://github.com/user-attachments/assets/fe4b48fa-06d6-4dd9-9ad1-3563d5a91e83" />
+  <img width="743" height="814" alt="Screenshot 2025-10-28 at 10 34 32 AM" src="https://github.com/user-attachments/assets/e87d1523-c357-4bfe-8ced-518662b40554" />
+
 </p>
 
 <h4 align="center">This is the repository for the HARDWARE DESIGN ONLY. Software for the board can be found <a href="https://github.com/1112luke/NDXPCOMPUTER">here</a></h4>
