@@ -11,4 +11,5 @@
   (lib (name "SSM3J328R")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/SSM3J328R/SSM3J328R.pretty")(options "")(descr ""))
   (lib (name "Images")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/Images/Images.pretty")(options "")(descr ""))
   (lib (name "CYA0630-1.5UH")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/CYA0630-1.5UH/footprints.pretty")(options "")(descr ""))
+  (lib (name "SI2302")(type "KiCad")(uri "${KIPRJMOD}/Custom_Parts/SI2302/SI2302.pretty")(options "")(descr ""))
 )
