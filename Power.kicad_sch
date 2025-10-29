@@ -4778,7 +4778,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C965808"
+		(property "JLC#" "C19273150"
 			(at 162.56 151.13 0)
 			(effects
 				(font
@@ -5119,7 +5119,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100Ω"
 			(at 161.29 72.3899 0)
 			(effects
 				(font
@@ -5470,7 +5470,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C965808"
+		(property "JLC#" "C19273150"
 			(at 158.75 78.74 0)
 			(effects
 				(font
@@ -5811,7 +5811,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "200"
+		(property "Value" "200Ω"
 			(at 165.1 144.7799 0)
 			(effects
 				(font
@@ -6818,7 +6818,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C965808"
+		(property "JLC#" "C19273150"
 			(at 238.76 118.11 0)
 			(effects
 				(font
@@ -7092,7 +7092,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0Ω"
 			(at 111.252 144.78 0)
 			(effects
 				(font
@@ -7751,7 +7751,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100Ω"
 			(at 213.3599 102.87 0)
 			(effects
 				(font
@@ -7939,7 +7939,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC#" "C965807"
+		(property "JLC#" "C19171394"
 			(at 222.25 105.41 0)
 			(effects
 				(font
@@ -7981,7 +7981,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0Ω"
 			(at 68.58 110.49 90)
 			(effects
 				(font
@@ -8484,7 +8484,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100Ω"
 			(at 234.95 117.348 0)
 			(effects
 				(font
