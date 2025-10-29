@@ -5559,7 +5559,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5"
+		(property "Value" "5Ω"
 			(at 119.126 72.644 0)
 			(effects
 				(font
@@ -5636,7 +5636,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5"
+		(property "Value" "5Ω"
 			(at 70.866 72.644 0)
 			(effects
 				(font
